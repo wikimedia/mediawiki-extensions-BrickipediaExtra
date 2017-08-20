@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Samantha Nguyen"
+		]
+	},
+	"brickipedia-extra-desc": "{{desc|what=extension|name=BrickipediaExtra|url=https://www.mediawiki.org/wiki/Extension:BrickipediaExtra}}",
+	"group-chatmod": "A user right group named '''Chat Moderators'''; this group moderates any chat that occurs in ''Special:Chat'' (a special page implemented by the [[mw:Extension:MediaWikiChat|MediaWikiChat extension]]). \nSee also:\n*{{msg-mw|group-chatmod-member}}",
+	"group-chatmod-member": "This describes what a member is called if they're in the Chat Moderators user group.\nSee also:\n* {{msg-mw|group-chatmod}}",
+	"group-functionary": "A user right group named '''Functionary''', which contains multiple rights related to handling private data.\nSee also:\n* {{msg-mw|group-functionary-member}}",
+	"group-functionary-member": "This describes what a member is called if they're in the Functionary user group.\nSee also:\n* {{msg-mw|group-functionary}}",
+	"grouppage-functionary": "This describes how the project title about the '''Functionary''' user group is called.\nSee also\n* {{msg-mw|group-functionary-member}}",
+	"parents": "This describes how the link label to Project:Parents on Brickipedia is called.\nSee also\n*{{msg-mw|parentspage}}",
+	"parentspage": "This describes how the project title for '''Parents''' is called. This page on Brickipedia is used to inform parents who have children that use Brickipedia.\nSee also:\n* http://en.brickimedia.org/wiki/Project:Parents\n* {{msg-mw|parents}}",
+	"termsofuse": "This describes how the the link label for the 'Terms of Use' page, a policy that someone needs to abide to in order to use a service, is called.\nSee also\n*{{msg-mw|termsofusepage}}",
+	"termsofusepage": "This describes how the project title for the '''Terms of Use''' policy is called.\nSee also\n*{{msg-mw|termsofuse}}"
+}

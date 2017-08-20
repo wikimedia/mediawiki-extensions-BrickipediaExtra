@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jack Phoenix <jack@countervandalism.net>"
+		]
+	},
+	"group-chatmod": "Chatin valvojat",
+	"group-chatmod-member": "chatin valvoja",
+	"parents": "Vanhemmille",
+	"termsofuse": "Käyttöehdot"
+}

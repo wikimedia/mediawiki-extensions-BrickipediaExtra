@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"George Barnick",
+			"Jack Phoenix <jack@countervandalism.net>"
+		]
+	},
+	"brickipedia-extra-desc": "Brickipedia-specific i18n messages and other functionality",
+	"group-chatmod": "Chat Moderators",
+	"group-chatmod-member": "chat moderator",
+	"group-functionary": "Functionaries",
+	"group-functionary-member": "functionary",
+	"grouppage-functionary": "{{ns:Project}}:Functionaries",
+	"parents": "Parents",
+	"parentspage": "{{ns:Project}}:Parents",
+	"termsofuse": "Terms of Use",
+	"termsofusepage": "{{ns:Project}}:Terms of Use"
+}

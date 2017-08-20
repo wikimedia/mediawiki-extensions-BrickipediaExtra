@@ -1,0 +1,30 @@
+{
+	"name": "Brickipedia Extra",
+	"version": "1.1",
+	"author": [
+		"Adam Carter/UltrasonicNXT",
+		"George Barnick",
+		"Lewis Cawte",
+		"Jack Phoenix",
+		"Samantha Nguyen",
+		"..."
+	],
+	"license-name": "GPL-2.0+",
+	"url": "https://www.mediawiki.org/wiki/Extension:BrickipediaExtra",
+	"descriptionmsg": "brickipedia-extra-desc",
+	"type": "other",
+	"AutoloadClasses": {
+		"BrickipediaExtraHooks": "BrickipediaExtraHooks.php"
+	},
+	"Hooks": {
+		"SkinTemplateOutputPageBeforeExec": [
+			"BrickipediaExtraHooks::onSkinTemplateOutputPageBeforeExec"
+		]
+	},
+	"MessagesDirs": {
+		"BrickipediaExtra": [
+			"i18n"
+		]
+	},
+	"manifest_version": 1
+}
