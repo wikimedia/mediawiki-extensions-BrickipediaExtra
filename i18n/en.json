@@ -2,7 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"George Barnick",
-			"Jack Phoenix <jack@countervandalism.net>"
+			"Jack Phoenix"
 		]
 	},
 	"brickipedia-extra-desc": "Brickipedia-specific i18n messages and other functionality",
