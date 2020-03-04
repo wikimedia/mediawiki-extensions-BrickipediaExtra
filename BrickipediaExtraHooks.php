@@ -9,6 +9,11 @@
  */
 class BrickipediaExtraHooks {
 
+	/**
+	 * @param Skin $sk
+	 * @param QuickTemplate &$tpl
+	 * @return bool
+	 */
 	public static function onSkinTemplateOutputPageBeforeExec( $sk, &$tpl ) {
 		// "Terms of Use" link in footer
 		/*
@@ -22,5 +27,4 @@ class BrickipediaExtraHooks {
 
 		return true;
 	}
-
 }
